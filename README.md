@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @albaraa-ali
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning front end development with react
-- 📫 How to reach me: https://bento.me/baraaexe
+- 📫 How to reach me: albaraamusabali@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing chess ♟️
 <!---
